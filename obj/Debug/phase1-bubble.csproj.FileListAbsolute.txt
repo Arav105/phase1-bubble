@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\bin\Debug\phase1-bubble.exe.config
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\bin\Debug\phase1-bubble.exe
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\bin\Debug\phase1-bubble.pdb
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\obj\Debug\phase1-bubble.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\obj\Debug\phase1-bubble.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\obj\Debug\phase1-bubble.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\obj\Debug\phase1-bubble.exe
+C:\Users\Admin\source\repos\phase1-bubble\phase1-bubble\obj\Debug\phase1-bubble.pdb
